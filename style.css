@@ -2,7 +2,7 @@
 
 body {
   margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Karla, Arial, sans-serif;
   color: #2e3d3a;
   background-image: url("background.jpg");
   background-size: cover;
@@ -26,6 +26,7 @@ header h1 {
   max-width: 700px;
   margin: 0 auto;
   font-style: italic;
+  font-size: 19px;
 }
 
 .container {
@@ -47,12 +48,14 @@ header h1 {
   padding: 25px;
   border-radius: 18px;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+  font-size: 19px;
 }
 
 .links {
   text-align: center;
   padding: 40px 20px;
   background-color: rgba(255, 255, 255, 0.75);
+  font-size: 21px;
 }
 
 .links a {
@@ -61,7 +64,7 @@ header h1 {
   text-decoration: none;
   font-weight: bold;
   color: #1b6b63;
-  font-size: 1.2em;
+  font-size: 22px;
 }
 
 .links a:hover {
@@ -73,12 +76,13 @@ footer {
   padding: 25px;
   font-weight: bold;
   background-color: rgba(255, 255, 255, 0.);
+  font-size: 22px;
 }
 
 button {
   margin-top: 15px;
   padding: 12px 25px;
-  font-size: 1em;
+  font-size: 16px;
   border: none;
   border-radius: 25px;
   background-color: #1b6b63;
@@ -101,7 +105,7 @@ button:hover {
 }
 
 .nav a {
-  font-size: 1.5em;
+  font-size: 24px;
   text-decoration: none;
   font-weight: bold;
   color: #a82915;
@@ -130,7 +134,7 @@ button:hover {
 
 .video-section h2 {
   margin-bottom: 20px;
-  font-size: 1.6em;
+  font-size: 25.6px;
   text-align: center;
   color: #1b6b63;
 }
@@ -160,7 +164,7 @@ button:hover {
 
 .video-card p {
   margin-top: 10px;
-  font-size: 0.95em;
+  font-size: 17px;
   color: #333;
   text-align: center;
 }
