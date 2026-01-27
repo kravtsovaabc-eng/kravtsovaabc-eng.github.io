@@ -1,6 +1,4 @@
-*{
-  box-sizing: border-box;
-}
+
 
 body {
   margin: 0;
@@ -45,7 +43,7 @@ header h1 {
 
 .card {
   flex: 1 1 400px;
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: rgba(255, 255, 255, 0.75);
   padding: 25px;
   border-radius: 18px;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
@@ -74,7 +72,7 @@ footer {
   text-align: center;
   padding: 25px;
   font-weight: bold;
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: rgba(255, 255, 255, 0.);
 }
 
 button {
